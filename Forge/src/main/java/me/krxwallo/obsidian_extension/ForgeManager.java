@@ -15,7 +15,7 @@ public class ForgeManager {
     
         // Use Forge to bootstrap the Common mod.
         Constants.LOG.info("Hello Forge world!");
-        CommonClass.init();
+        Manager.init();
     
         // Some code like events require special initialization from the
         // loader specific code.
@@ -28,6 +28,6 @@ public class ForgeManager {
     // the Common listener.
     private void onItemTooltip(ItemTooltipEvent event) {
         
-        CommonClass.onItemTooltip(event.getItemStack(), event.getFlags(), event.getToolTip());
+        Manager.onItemTooltip(event.getItemStack(), event.getFlags(), event.getToolTip());
     }
 }

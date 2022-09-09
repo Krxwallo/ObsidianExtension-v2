@@ -9,8 +9,8 @@ public class FabricManager implements ModInitializer {
     public void onInitialize() {
 
         Constants.LOG.info("Hello Fabric world!");
-        CommonClass.init();
+        Manager.init();
 
-        ItemTooltipCallback.EVENT.register(CommonClass::onItemTooltip);
+        ItemTooltipCallback.EVENT.register(Manager::onItemTooltip);
     }
 }
