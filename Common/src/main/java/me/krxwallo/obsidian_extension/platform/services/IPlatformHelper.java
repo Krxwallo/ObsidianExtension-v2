@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package me.krxwallo.obsidian_extension.platform.services;
 
 public interface IPlatformHelper {
 

@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package me.krxwallo.obsidian_extension;
 
-import com.example.examplemod.platform.Services;
+import me.krxwallo.obsidian_extension.platform.Services;
 import net.minecraft.core.Registry;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.food.FoodProperties;

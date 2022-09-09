@@ -1,7 +1,8 @@
-package com.example.examplemod.platform;
+package me.krxwallo.obsidian_extension.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+
+import me.krxwallo.obsidian_extension.Constants;
+import me.krxwallo.obsidian_extension.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

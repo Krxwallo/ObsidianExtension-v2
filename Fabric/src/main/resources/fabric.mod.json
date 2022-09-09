@@ -1,29 +1,29 @@
 {
     "schemaVersion": 1,
-    "id": "modid",
+    "id": "obsidian_extension",
     "version": "${version}",
-  
-    "name": "Example Mod",
-    "description": "This is an example description! Tell everyone what your mod is about!",
+
+    "name": "Obsidian Extension",
+    "description": "Stairs, Slabs, Walls, Doors, Buttons, Doors and Armor for (Crying) Obsidian",
     "authors": [
-      "Me!"
+      "Krxwallo"
     ],
     "contact": {
-      "homepage": "https://fabricmc.net/",
-      "sources": "https://github.com/FabricMC/fabric-example-mod"
+      "homepage": "https://www.curseforge.com/minecraft/mc-mods/obsidian-extension",
+      "sources": "https://github.com/Krxwallo/ObsidianExtension-v2"
     },
   
-    "license": "CC0-1.0",
-    "icon": "assets/modid/icon.png",
+    "license": "LGPL-3.0-or-later",
+    "icon": "assets/obsidian_extension/icon.png",
   
     "environment": "*",
     "entrypoints": {
       "main": [
-        "com.example.examplemod.ExampleMod"
+        "me.krxwallo.obsidian_extension.FabricManager"
       ]
     },
     "mixins": [
-      "modid.mixins.json"
+      "obsidian_extension.mixins.json"
     ],
   
     "depends": {
@@ -31,9 +31,6 @@
       "fabric": "*",
       "minecraft": "1.19.x",
       "java": ">=17"
-    },
-    "suggests": {
-      "another-mod": "*"
     }
   }
   
