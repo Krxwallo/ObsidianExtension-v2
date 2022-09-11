@@ -1,0 +1,43 @@
+{
+  "itemGroup.obsidian_stuff": "Вещи из обсидиана",
+  "itemGroup.crying_obsidian_stuff": "Вещи из плачущего обсидиана",
+  "itemGroup.obsidian_extension": "Obsidian Extension",
+
+  "block.obsidian_extension.obsidian_stairs": "Обсидиановые ступеньки",
+  "block.obsidian_extension.crying_obsidian_stairs": "Ступеньки из плачущего обсидиана",
+
+  "block.obsidian_extension.obsidian_slab": "Обсидиановая плита",
+  "block.obsidian_extension.crying_obsidian_slab": "Плита из плачущего обсидиана",
+
+  "block.obsidian_extension.obsidian_button": "Обсидиановая кнопка",
+  "block.obsidian_extension.crying_obsidian_button": "Кнопка из плачущего обсидиана",
+
+  "block.obsidian_extension.obsidian_wall": "Обсидиановая стена",
+  "block.obsidian_extension.crying_obsidian_wall": "Стена из плачущего обсидиана",
+
+  "block.obsidian_extension.obsidian_door": "Обсидиановая дверь",
+  "block.obsidian_extension.crying_obsidian_door": "Дверь из плачущего обсидиана",
+
+  "block.obsidian_extension.obsidian_pressure_plate": "Обсидиановая нажимная плита",
+  "block.obsidian_extension.crying_obsidian_pressure_plate": "Нажимная плита из плачущего обсидиана",
+
+  "item.obsidian_extension.obsidian_helmet": "Обсидиановый шлем",
+  "item.obsidian_extension.obsidian_chestplate": "Обсидиановый нагрудник",
+  "item.obsidian_extension.obsidian_leggings": "Обсидиановые штаны",
+  "item.obsidian_extension.obsidian_boots": "Обсидиановые ботинки",
+
+  "item.obsidian_extension.obsidian_sword": "Обсидиановый меч",
+  "item.obsidian_extension.obsidian_shovel": "Обсидиановая лопата",
+  "item.obsidian_extension.obsidian_pickaxe": "Обсидиановая кирка",
+  "item.obsidian_extension.obsidian_hoe": "Обсидиановая мотыга",
+  "item.obsidian_extension.obsidian_axe": "Обсидиановый топор",
+
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.armor": "Броня",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.buttons": "Кнопки",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.doors": "Двери",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.pressure_plates": "Нажимные плиты",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.slabs": "Плиты",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.stairs": "Ступеньки",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.tools": "Вещи",
+  "gui.tag_filter.obsidian_extension.obsidian_extension_tab.walls": "Стены"
+}

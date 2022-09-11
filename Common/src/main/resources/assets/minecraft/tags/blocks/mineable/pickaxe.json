@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "obsidian_extension:obsidian_slab",
+    "obsidian_extension:obsidian_stairs",
+    "obsidian_extension:obsidian_wall",
+    "obsidian_extension:obsidian_door",
+    "obsidian_extension:obsidian_pressure_plate",
+    "obsidian_extension:obsidian_button",
+    "obsidian_extension:crying_obsidian_slab",
+    "obsidian_extension:crying_obsidian_stairs",
+    "obsidian_extension:crying_obsidian_wall",
+    "obsidian_extension:crying_obsidian_door",
+    "obsidian_extension:crying_obsidian_pressure_plate",
+    "obsidian_extension:crying_obsidian_button"
+  ]
+}

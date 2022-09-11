@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "obsidian_extension:block/crying_obsidian_pressure_plate"
+    },
+    "powered=true": {
+      "model": "obsidian_extension:block/crying_obsidian_pressure_plate_down"
+    }
+  }
+}

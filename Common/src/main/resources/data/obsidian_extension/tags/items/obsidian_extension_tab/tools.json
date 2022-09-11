@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "obsidian_extension:obsidian_sword",
+    "obsidian_extension:obsidian_shovel",
+    "obsidian_extension:obsidian_pickaxe",
+    "obsidian_extension:obsidian_axe",
+    "obsidian_extension:obsidian_hoe"
+  ]
+}

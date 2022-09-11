@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "obsidian_extension:block/obsidian_slab" },
+        "type=top":    { "model":    "obsidian_extension:block/obsidian_slab_top" },
+        "type=double": { "model": "minecraft:block/obsidian" }
+    }
+}

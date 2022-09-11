@@ -1,7 +1,7 @@
 package me.krxwallo.obsidian_extension;
 
 import me.krxwallo.obsidian_extension.platform.Services;
-import me.krxwallo.obsidian_extension.registry.Blocks;
+import me.krxwallo.obsidian_extension.registry.OEBlocks;
 import net.minecraft.core.Registry;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.food.FoodProperties;
@@ -18,7 +18,7 @@ public class Manager {
         Constants.LOG.info("Hello from Common init on {}! we are currently in a {} environment!", Services.PLATFORM.getPlatformName(), Services.PLATFORM.isDevelopmentEnvironment() ? "development" : "production");
         Constants.LOG.info("Diamond Item >> {}", Registry.ITEM.getKey(Items.DIAMOND));
 
-        Blocks.init();
+        OEBlocks.init();
     }
 
     public static void onItemTooltip(ItemStack stack, TooltipFlag context, List<Component> tooltip) {
